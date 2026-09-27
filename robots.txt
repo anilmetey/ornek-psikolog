@@ -1,0 +1,7 @@
+# robots.txt for Uzm. Klinik Psikolog Zeynep Arslan
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://ornekpsikolog.com/sitemap.xml
